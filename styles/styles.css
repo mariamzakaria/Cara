@@ -398,3 +398,21 @@ justify-content: space-evenly;
 .copyright{
     text-align: center;
 }
+.position-top-4em{
+    top: 4em;
+}
+.font-size-1o5em{
+
+    font-size: 1.5em;
+}
+.font-size-1o2em{
+    font-size: 1.2em;
+}
+.collection-learnmore-buttons{
+    border: white solid 1px;
+    border-radius: 4px;
+    width: 7em;
+    height: 2em;
+    text-align: center;
+
+}
